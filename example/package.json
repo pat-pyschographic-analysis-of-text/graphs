@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "@tweetmate/graphs": "file:../",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "react-scripts": "^3.0.1"
+  }
+}
