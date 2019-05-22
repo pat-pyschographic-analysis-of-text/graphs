@@ -1,9 +1,14 @@
 {
   "scripts": {
-    "start": "react-scripts start"
+    "build": "webpack --mode production"
   },
   "devDependencies": {
-    "react-scripts": "^3.0.1"
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-react": "^7.0.0",
+    "react-scripts": "^3.0.1",
+    "webpack": "^4.32.0",
+    "webpack-cli": "^3.3.2"
   },
   "dependencies": {
     "react": "^16.8.6",
@@ -21,5 +26,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "name": "@tweetmate/graphs",
+  "version": "0.0.1",
+  "description": "Graphs for the TweetMate project",
+  "main": "bundle.js",
+  "repository": "https://github.com/pat-pyschographic-analysis-of-text/SharedDocuments.git",
+  "author": "Cole Hudson <cole@colejhudson.com>, Jay Maas <jaymaas.dev@gmail.com>",
+  "license": "MIT"
 }
