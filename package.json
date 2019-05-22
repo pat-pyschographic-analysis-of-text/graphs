@@ -31,7 +31,7 @@
   "version": "0.0.1",
   "description": "Graphs for the TweetMate project",
   "main": "bundle.js",
-  "repository": "https://github.com/pat-pyschographic-analysis-of-text/SharedDocuments.git",
+  "repository": "https://github.com/pat-pyschographic-analysis-of-text/graphs.git",
   "author": "Cole Hudson <cole@colejhudson.com>, Jay Maas <jaymaas.dev@gmail.com>",
   "license": "MIT"
 }
